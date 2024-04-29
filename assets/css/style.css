@@ -239,7 +239,7 @@ h1,h2,h3,h4,h5,h6 {
 #hero {
   width: 100%;
   min-height: 100vh;
-  background: url("./Imagens/biblioteca.png") top center;
+  background-image: url("../Imagens/biblioteca.png");
   background-size: cover;
   position: relative;
 }
