@@ -239,7 +239,7 @@ h1,h2,h3,h4,h5,h6 {
 #hero {
   width: 100%;
   min-height: 100vh;
-  background: url("https://lh3.googleusercontent.com/p/AF1QipOGqEdrlF0Yu4KQM_r8evYsSIOaiKGHJWC-I3L6=s1360-w1360-h1020") top center;
+  background: url("https://lh3.googleusercontent.com/p/AF1QipOGqEdrlF0Yu4KQM_r8evYsSIOaiKGHJWC-I3L6=s1360-w1360-h1020");
   background-size: cover;
   position: relative;
 }
