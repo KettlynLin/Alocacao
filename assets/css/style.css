@@ -365,6 +365,21 @@ section {
   height: 100%;
 }
 
+@media (max-width: 768px) {
+  .section-title p{
+    font-size: 20px;
+  }
+
+  .section-title{
+    padding-bottom: 10px;
+  }
+
+  .about .content h3{
+    font-size: 15px;
+  }
+   
+}
+
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
